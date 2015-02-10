@@ -1,0 +1,35 @@
+{
+  "name": "example-AWS-SQS",
+  "version": "0.0.1",
+  "author": "James Brown",
+  "description": "Repository for presenting and demonstrating Amazon AWS SQS usage.",
+  "contributors": [
+    {
+      "name": "James Brown",
+      "email": "j@mesbrown.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ibjhb/example-AWS-SQS.git"
+  },
+  "private": false,
+  "dependencies": {
+    "grunt": "latest",
+    "grunt-contrib-jshint": "latest",
+    "grunt-contrib-watch": "latest",
+    "grunt-nodemon": "latest",
+    "grunt-concurrent": "latest",
+    "grunt-simple-mocha": "latest",
+    "grunt-contrib-qunit": "latest",
+    "aws-sdk": "latest",
+    "underscore": "latest",
+    "node-uuid": "latest",
+    "sinon": "latest",
+    "should": "latest",
+    "q": "~1.0.1",
+    "gm": "latest",
+    "request": "~2.39.0"
+  },
+  "engine": "node >= 0.10.22"
+}

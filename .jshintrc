@@ -1,0 +1,35 @@
+{
+	"globals": {
+		"module" : true
+		,"require" : true
+		,"define" : true
+		,"io"		: true
+		,"google"	: true
+		,"QUnit" : true
+		,"before" : true
+		,"after" : true
+		,"it" : true
+		,"assert" : true
+		,"describe" : true
+		,"sut" : true
+		,"pavlov" : true
+		,"sinon" : true
+		,"beforeEach" : true
+		,"afterEach" : true
+		,"global" : true
+		,"process" : true
+		,"Handlebars" : true
+	}
+	,"laxcomma" : true
+	,"eqeqeq" : true
+	,"trailing" : true
+	,"curly" : true
+	,"newcap" : true
+	,"quotmark" : "single"
+	,"undef" : true
+	,"unused" : true
+	,"jquery" : true
+	,"browser" : true
+	,"devel" : true
+	,"sub" : true
+}
