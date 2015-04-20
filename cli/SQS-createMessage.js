@@ -15,7 +15,7 @@ var message = {
 	,height		: 320
 };
 
-var queue = 'https://sqs.us-east-1.amazonaws.com/435206425092/resizeImage'
+var queue = 'https://sqs.us-east-1.amazonaws.com/435206425092/resizeImage';
 
 var params = {
 	MessageBody		: JSON.stringify(message)
